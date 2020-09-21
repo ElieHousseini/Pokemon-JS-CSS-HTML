@@ -1,13 +1,17 @@
 # Pokemon-JS-CSS-HTML
 
-It is a web App that fetches Pokemon API
+_It is an elegent web App that fetches Pokemon API and creates/_
+_New placeholders dynamically according the data received._
 
 ## Table of content
 
 - Screenshots
 - Usage
+- Features
 - Technologies used
+- Requirements
 - Installation
+- Note
 - Contributing
 - License
 
@@ -20,6 +24,10 @@ It is a web App that fetches Pokemon API
 
 Pokemon-JS-CSS-HTML can be used as backbone for a big
 project that includes fetching APIs.
+
+## Features
+
+
 
 ## Technologies used
 
