@@ -7,7 +7,6 @@ _New placeholders dynamically according the data received._
 
 - Screenshots
 - Usage
-- Features
 - Technologies used
 - Requirements
 - Installation
