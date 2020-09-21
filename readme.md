@@ -25,10 +25,6 @@ _New placeholders dynamically according the data received._
 Pokemon-JS-CSS-HTML can be used as backbone for a big
 project that includes fetching APIs.
 
-## Features
-
-
-
 ## Technologies used
 
 - Javascript
