@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Pokemon</title>
+
+  <!-- necessary to make webpage responsive  -->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- importing Lemonada font from google fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Lemonada:wght@600&display=swap" rel="stylesheet" />
+
+  <!-- importing stylesheet style.css  -->
+  <link rel="stylesheet" type="text/css" href="style.css" />
+
+  <!-- importing font awesome using cdn link -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
+    crossorigin="anonymous" />
+</head>
+
+<body>
+
+  <!-- Title -->
+  <h1 id="heading">Pokemon</h1>
+
+  <!-- < 1 2 3 4 5 > -->
+  <div class="button-container">
+    <button id="left-btn"><i class="fa fa-caret-left"></i></button>
+    <div class="pagination current-page">1</div>
+    <div class="pagination">2</div>
+    <div class="pagination">3</div>
+    <div class="pagination">4</div>
+    <div class="pagination">5</div>
+    <button id="right-btn"><i class="fa fa-caret-right"></i></button>
+  </div>
+
+  <!-- search bar -->
+  <div class="pokemon-container">
+    <div class="search-box-container">
+      <input type="text" class="search-box" placeholder="Search"></input>
+      <i class="fas fa-search"></i>
+    </div>
+  </div>
+
+  <!-- pokemon cards -->
+  <script type="text/javascript" src="./script.js"></script>
+</body>
+
+</html>
