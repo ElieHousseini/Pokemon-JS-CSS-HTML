@@ -3,6 +3,10 @@
 _It is an elegent web App that fetches Pokemon API and creates_
 _New placeholders dynamically according the data received._
 
+## LIVE DEMO
+
+https://eliehousseini.github.io/Pokemon-JS-CSS-HTML/
+
 ## Table of content
 
 - Screenshots
