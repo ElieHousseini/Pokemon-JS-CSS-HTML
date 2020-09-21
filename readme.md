@@ -1,6 +1,6 @@
 # Pokemon-JS-CSS-HTML
 
-_It is an elegent web App that fetches Pokemon API and creates/_
+_It is an elegent web App that fetches Pokemon API and creates_
 _New placeholders dynamically according the data received._
 
 ## Table of content
