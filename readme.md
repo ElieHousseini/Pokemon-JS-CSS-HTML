@@ -40,12 +40,12 @@ project that includes fetching APIs.
 
 ## Installation
 
-Running the Web App requires opening the index.html file\
+Running the Web App requires opening the index.html file
 
 ## Note
 
 Make sure to keep all the files together in a single folder\
-or you have to change the src in the index.html file\
+or you have to change the src in the index.html file
 
 ## Contributing
 
